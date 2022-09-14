@@ -9,7 +9,9 @@ show_people: true
 permalink: /
 ---
 
-图个开心！
+PLACEHOLDER!!!
+
+<!-- 图个开心！
 
 我们是硅谷地区的一群**汉语喜剧**爱好者，以脱口秀为主。我们欢迎各路朋友来观赏、参演！
 
@@ -20,4 +22,4 @@ permalink: /
 **开放麦**：
 {% include call.html show_button=true labels=site.data.l10n.cn %}
 
-无法莅临现场？欢迎订阅、分享我们的 [YouTube 频道](https://www.youtube.com/channel/UCqG1oe7CjCghQdZDldNKT0A/featured)和[哔哩哔哩](https://space.bilibili.com/482647119)！
+无法莅临现场？欢迎订阅、分享我们的 [YouTube 频道](https://www.youtube.com/channel/UCqG1oe7CjCghQdZDldNKT0A/featured)和[哔哩哔哩](https://space.bilibili.com/482647119)！ -->

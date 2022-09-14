@@ -6,7 +6,7 @@ gem "jekyll-environment-variables"
 gem "jekyll-get-json", "~> 1.0"
 
 # https://github.com/ruby/webrick
-gem "webrick", "~> 1.7"
+gem "webrick"
 
 # https://github.com/mohkale/jekyll-tsc
 gem "jekyll-tsc"
@@ -15,4 +15,5 @@ gem "jekyll-tsc"
 group :jekyll_plugins do
   gem "jekyll-last-modified-at"
   gem "jekyll-tidy"
+
 end
