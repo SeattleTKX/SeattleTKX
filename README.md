@@ -4,7 +4,7 @@
 
 The Website is deployed to [GitHub pages](https://ggtkx.github.io/) and is served at [ggtkx.org](http://ggtkx.org/en/).
 
-The Website is statically generated with [Jekyll](https://jekyllrb.com/). See this instruction page for [setup] (https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+The Website is statically generated with [Jekyll](https://jekyllrb.com/). See this instruction page for [setup](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
 
 To serve it locally, run:
 
